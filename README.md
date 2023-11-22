@@ -37,7 +37,7 @@ and then open another terminal to interact with the Token smart contract, type i
 npx harhdat run scripts/<filename>.ts --network localhost
 ```
 
-### Authhors
+### Authors
 
 Parth Verma
 
